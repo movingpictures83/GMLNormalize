@@ -1,0 +1,2 @@
+Prefix plugins/GMLNormalize/example/
+Plugin GMLNormalize inputfile parameters.txt outputfile normalized.gml

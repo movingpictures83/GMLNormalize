@@ -1,0 +1,2 @@
+network	input.gml
+meanabundance	meanAbundance.txt
